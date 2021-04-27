@@ -11,4 +11,4 @@ Scraps twitter, looks at post hashtag and keywords to create a statistical proba
 Turns out the majority of the Twitter APIs functionality is actually locked behind a paywall! Isn't capitalism great? So instead of the Twitter API, I'm going to use selenium and 
 beutifulsoup to scrape for information. Quite frankly I think that I'll learn more through this approch, so It's not neccessarily a bad thing.
 
-Now that I think of it, I might as well analyze sentiment about Dr. Stone as a first.
+Now that I think of it, I might as well analyze sentiment about Dr. Stone as a first query.

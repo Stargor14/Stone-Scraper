@@ -1,3 +1,5 @@
+<h1>Stone-Scrapper</h1>
+
 Lol another Dr. Stone inspired project
 
 In the anime, the main character uses a program he wrote to find the geographic origin of a # on twitter, since I'm a filthy copycat, I'm going to attempt to do the same thing. This project might end up turning into an ML project where I try to use a Neural Network to capture sentiment of tweets using their text, but we wil see.

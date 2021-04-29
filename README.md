@@ -15,9 +15,7 @@ Now that I think of it, I might as well analyze sentiment about Dr. Stone as a f
 
 Well I guess this is jus way too fun, I'm making a type racer bot now
 
-https://twitter.com/90spics_ <-- scrap thjis cool anime page and auto set wallpaper or something every day with random photo from their feed
+https://twitter.com/90spics_ <-- scrap this cool anime page and auto set wallpaper or something every day with random photo from their feed
 
-Next I'm going to make a binary tree visualizer that takes in multidimensional arrays and creates a png for them, or console text
-Where to run recommender, input time distance speed direction etc of where uw ant to go
-
-Turns out u cant actually find geotags of everything, especilly not through scraping, cus it is borderline impossible to seperate every element
+Turns out u cant actually find geotags of everything, especilly not through scraping, it is borderline impossible to seperate every element with how twitter is trying to make it
+impossible to NOT use their api. Instead of tweet class name being "tweet" or "tweet-text" like in the past, they chosen to make the class names absolute giberish. The code is mostly just me trying to decipher where the text is.
